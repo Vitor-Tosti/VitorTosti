@@ -13,3 +13,5 @@
 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/VitorTosti)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Vitor-Tosti)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitor-Tosti&show_icons=true&theme=dark)
