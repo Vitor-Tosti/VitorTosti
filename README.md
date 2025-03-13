@@ -1,5 +1,5 @@
-# VitorTosti
-## 👋 Hello! I'm [Seu Nome]
+
+## 👋 Hello! I'm Vitor 
 
 🔹 Cybersecurity & Cloud Enthusiast  
 🔹 Passionate about securing cloud environments and building robust security strategies  
@@ -11,5 +11,5 @@
 - 🏗️ DevOps: Terraform, CI/CD  
 
 📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/seu-usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/VitorTosti)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Vitor-Tosti)  
